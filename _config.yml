@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cencalruby.org" # the base hostname & protocol for your site
 twitter_username: cencalruby
 github_username:  cencalruby
+meetup:  CenCal-Ruby
 
 # Build settings
 markdown: kramdown
