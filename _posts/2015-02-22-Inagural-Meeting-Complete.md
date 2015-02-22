@@ -13,7 +13,7 @@ also wanted to thank everyone for letting me give my presentation as well and
 for the discussions that ensued.
 
 I wanted to extend our thanks to Western Milling, J.D. Heiskell & Co. and
-Bitwise Industries for sponsoring our group. I look forward to the next meeting
+Bitwise Industries for sponsoring our group. I look forward to the next
 meeting on March 12, 2015, same place, same time. Remember that we are looking
 for people to give lightning talks or presentations. We have a giveaway
 scheduled for those who participate.
